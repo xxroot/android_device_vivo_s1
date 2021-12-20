@@ -1,0 +1,11 @@
+persist.service.adb.enable=1
+persist.service.debuggable=1
+persist.sys.usb.config=mtp,adb
+ro.adb.secure=0
+ro.vendor.vivo.product.model=PD1831
+ro.vivo.product.model=PD1831
+ro.vivo.hardware.version=PD1831A
+ro.hardware.bbk=PD1831A
+ro.vivo.os.version=12.0
+ro.vivo.oem.name=PD1831A_CN-ZH_FULL_SC_NULL
+ro.vgc.device.name=NULL_PD1831A
