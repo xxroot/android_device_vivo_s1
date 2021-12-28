@@ -4,5 +4,7 @@
 recovery目录是原版的官方recovery.img
 
 dump recovery system vendor partition
+
 https://androidfilehost.com/?w=files&flid=331352
+
 This device is FDE encrypted
